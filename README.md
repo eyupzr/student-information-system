@@ -19,3 +19,8 @@ student information using PostgreSQL and Docker.
 
 ## Project Status
 Week 1 - Project setup and planning.# student-information-system
+
+## Branch Strategy
+- `main`: stable releases
+- `develop`: integration branch
+- `feature/*`: one branch per feature, merged via Pull Request
